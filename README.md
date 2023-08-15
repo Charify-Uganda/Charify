@@ -1,6 +1,7 @@
 # Charify
 A crowdfunding for organizations.
 
+**USER STORIES**
 
 **Features**
 **User Authentication**: Allow users to sign up and log in securely to the app using email/password or social media accounts.
