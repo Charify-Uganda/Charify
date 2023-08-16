@@ -10,13 +10,5 @@ A crowdfunding for organizations.
 
 **Browse Campaigns**: Users can browse through a wide range of crowdfunding campaigns. They can search, filter, and sort campaigns based on categories, popularity, and funding status.
 
-**Back a Campaign**: Users can support campaigns by contributing funds. They can select reward tiers and payment methods securely within the app.
 
-**Notifications**: Users receive notifications about campaign updates, successful funding, and other relevant activities.
-
-**User Profiles**: Each user has a profile displaying their backed campaigns, created campaigns, and activity history.
-
-**Secure Payments**: Integration with a reliable payment gateway ensures secure and seamless payment processing.
-
-**Real-time Updates**: Campaign progress, funding milestones, and updates are reflected in real-time to maintain transparency.
 
