@@ -15,16 +15,12 @@
 
 The Charify Crowdfunding Mobile App, developed by Group 26, addresses challenges faced by charitable organizations and individuals in Uganda. The app aims to provide a transformative digital platform that simplifies the process of receiving donations, creating impactful campaigns, and showcasing charitable endeavors. Charify integrates with major mobile network operators' APIs for seamless mobile money donations, utilizes Google Maps integration for location visibility, and focuses on user accessibility and localization.
 
-## Project Screenshots
-
 <div align="center">
-    <img src="screenshots/1.png" alt="Flash Screen" height="300">
-    <img src="screenshots/2.png" alt="Welcome Screen" height="300">
-    <img src="screenshots/3.png" alt="Sign Up Page" height="300">
-    <img src="screenshots/4.png" alt="Welcome Screen" height="300">
-    <img src="screenshots/5.png" alt="Sign Up Page" height="300">
+  <img src="charify_mobile/assets/icons/signup.svg" alt="Charify Screen">
 </div>
+---
 
+    
 ## Project Highlights
 
 - Provides a user-friendly interface for creating and managing campaigns.
@@ -56,16 +52,32 @@ To run the Charify Crowdfunding Mobile App:
 
 The project has identified limitations and proposes future steps for improvement, including expanded payment methods, regional scaling, blockchain integration for transparency, and more. Please refer to the complete project report for more details.
 
-## More Screenshots
-
-<div align="center">
-    <img src="screenshots/6.png" alt="Flash Screen" height="300">
-    <img src="screenshots/7.png" alt="Welcome Screen" height="300">
-    <img src="screenshots/8.png" alt="Sign Up Page" height="300">
-    <img src="screenshots/9.png" alt="Welcome Screen" height="300">
-    <img src="screenshots/10.png" alt="Sign Up Page" height="300">
-</div>
 
 ---
 
 For more detailed information, please refer to the complete technical report provided in the repository.
+## Project Screenshots
+
+<div align="center">
+    <img src="screenshots/1.png" alt="Flash Screen" height="300">
+    <img src="screenshots/2.png" alt="Welcome Screen" height="300">
+    <img src="screenshots/3.png" alt="Sign Up Page" height="300">
+</div>
+
+<div align="center">
+    <img src="screenshots/7.png" alt="Flash Screen" height="300">
+    <img src="screenshots/8.png" alt="Welcome Screen" height="300">
+    <img src="screenshots/9.png" alt="Sign Up Page" height="300">
+</div>
+---
+<div align="center">
+    <img src="screenshots/10.png" alt="Welcome Screen" height="300">
+    <img src="screenshots/11.png" alt="Sign Up Page" height="300">
+    <img src="screenshots/12.png" alt="Sign Up Page" height="300">
+</div>
+
+<div align="center">
+     <img src="screenshots/4.png" alt="Welcome Screen" height="300">
+     <img src="screenshots/5.png" alt="Sign Up Page" height="300">
+     <img src="screenshots/6.png" alt="Sign Up Page" height="300">
+<div align="center">
