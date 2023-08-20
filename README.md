@@ -1,4 +1,5 @@
 # Charify Crowdfunding Mobile App
+<img src="Charify Branding/Charify.png" alt="Flash Screen">
 
 **Prepared by: Group 26**
 
@@ -17,9 +18,11 @@ The Charify Crowdfunding Mobile App, developed by Group 26, addresses challenges
 ## Project Screenshots
 
 <div align="center">
-    <img src="/path/to/flash_screen.png" alt="Flash Screen" height="300">
-    <img src="/path/to/welcome_screen.png" alt="Welcome Screen" height="300">
-    <img src="/path/to/signup_page.png" alt="Sign Up Page" height="300">
+    <img src="screenshots/1.png" alt="Flash Screen" height="300">
+    <img src="screenshots/2.png" alt="Welcome Screen" height="300">
+    <img src="screenshots/3.png" alt="Sign Up Page" height="300">
+    <img src="screenshots/4.png" alt="Welcome Screen" height="300">
+    <img src="screenshots/5.png" alt="Sign Up Page" height="300">
 </div>
 
 ## Project Highlights
@@ -52,6 +55,16 @@ To run the Charify Crowdfunding Mobile App:
 ## Limitations and Future Steps
 
 The project has identified limitations and proposes future steps for improvement, including expanded payment methods, regional scaling, blockchain integration for transparency, and more. Please refer to the complete project report for more details.
+
+## More Screenshots
+
+<div align="center">
+    <img src="screenshots/6.png" alt="Flash Screen" height="300">
+    <img src="screenshots/7.png" alt="Welcome Screen" height="300">
+    <img src="screenshots/8.png" alt="Sign Up Page" height="300">
+    <img src="screenshots/9.png" alt="Welcome Screen" height="300">
+    <img src="screenshots/10.png" alt="Sign Up Page" height="300">
+</div>
 
 ---
 
