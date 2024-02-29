@@ -29,7 +29,7 @@ The Charify Crowdfunding Mobile App, developed by Group 26, addresses challenges
 - Offers user authentication and profile management.
 - Supports multiple languages and optimized for low-bandwidth networks.
 - Implements notification services for real-time updates.
-- Ensures security and privacy of user data.
+- Ensures security and privacy of the user data.
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ To run the Charify Crowdfunding Mobile App:
 1. Clone the project repository from [GitHub](https://github.com/Charify-Uganda/Charify).
 2. Follow the project documentation for setting up the required APIs, dependencies, and environment.
 3. Build and run the app using Flutter and Dart.
-4. Explore the functionalities such as creating campaigns, making donations, and viewing campaign locations.
+4. Explore the functionalities such as  creating campaigns, starting donations, and viewing campaign locations.
 
 ## Project Documentation
 
